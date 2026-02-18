@@ -30,6 +30,6 @@
 
     public class SectionData
     {
-
+        public required string Section_Name { get; set; }
     }
 }
